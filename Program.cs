@@ -2,7 +2,7 @@ using SignalRChatServer;
 
 
 // Program file...
-// teste
+// teste ...
 var builder = WebApplication.CreateBuilder(args);
 
 // Configure services
